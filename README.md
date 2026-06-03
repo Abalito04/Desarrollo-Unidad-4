@@ -1,27 +1,26 @@
-# Análisis de Ventas - Pequeña Empresa (Escenario B)
+# 📚 Desarrollo Unidad 4
 
-## Integrantes del Equipo
-*   **Matias Emanuel Abalo** (Hugo, Paco y Luis - Roles P1, P2, P3 simulados)
+Academic project developed as part of **Programming 1** at UTN — TUPaD. Covers Unit 4 exercises and practical examples.
 
-## Escenario Elegido
-**Escenario B – Análisis de Ventas de una Pequeña Empresa.**
-El objetivo es procesar un conjunto de datos comerciales para generar indicadores clave de desempeño (KPIs) y visualizar la evolución de las ventas.
+## 🛠️ Tech Stack
 
-## Dataset Utilizado
-Se utiliza un conjunto de datos en formato CSV (`datos/ventas.csv`) que contiene:
-*   `sales_date`: Fecha de la transacción.
-*   `product`: Nombre del producto vendido.
-*   `quantity`: Cantidad de unidades.
-*   `amount`: Monto total de la venta.
+- **Python 3**
 
-##  Instrucciones de Ejecución
-1.  El entorno de ejecución principal es **Google Colab**.
-2.  Los datos se encuentran en la carpeta `/datos`.
-3.  El script de procesamiento se encuentra en `/scripts/analisis_ventas.py`.
-4.  Para ejecutar el análisis, correr el comando: `!python scripts/analisis_ventas.py`.
-5.  Los resultados y gráficos se guardarán automáticamente en la carpeta `/resultados`.
+## 🏫 Context
 
-##  Tecnologías Utilizadas
-*   **Gestión:** Jira (Clave DU4)
-*   **Control de Versiones:** Git & GitHub
-*   **Lenguaje:** Python (Pandas & Matplotlib)
+Part of the TUPaD (Tecnicatura Universitaria en Programación a Distancia) degree at **Universidad Tecnológica Nacional (UTN)**.
+
+## 🚀 Getting Started
+
+```bash
+# Clone the repo
+git clone https://github.com/Abalito04/Desarrollo-Unidad-4.git
+cd Desarrollo-Unidad-4
+
+# Run any exercise file
+python ejercicio1.py
+```
+
+## 📄 License
+
+MIT
